@@ -1,0 +1,20 @@
+.header {
+  border-bottom: 1px solid #eaeaea;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ancor {
+  display: inline-block;
+  padding: 8px 24px;
+  font-size: 1.2em;
+}
+
+.ancor:hover,
+.ancor:focus,
+.ancor:active {
+  color: #0070f3;
+}
